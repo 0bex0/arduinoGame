@@ -5,4 +5,4 @@ The game comes in two modes, practice mode and story mode. In both modes the gam
 
 If the user selects practice mode they are able to fully customize the game by editing: the length of the sequence, the number of symbols used in the sequence and the length of time they have to recall the symbols. This settings can be altered using the Arduino buttons. 
 
-If the user selects story mode they are take through levels of increasing difficulty. 
+If the user selects story mode they are taken through levels of increasing difficulty. 
